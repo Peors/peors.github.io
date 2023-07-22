@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.homepage-banner{
+    background: linear-gradient(13deg, rgba(0, 0, 0, 0.785), rgba(0, 0, 0, 0.723)), url('https://i.postimg.cc/zGBgLnD1/pexels-lucas-monteiro-1868475.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    height: 100vh;
+}
+.navbar{
+    position: absolute;
+}
+
